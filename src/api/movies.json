@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Breaking Bad",
+      "rating": 9,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additonial content",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vikings",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additonial content",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Peaky Blinders",
+      "rating": 8.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additonial content",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lost",
+      "rating": 8.8,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additonial content",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg"
+    }
+  ]
+}
